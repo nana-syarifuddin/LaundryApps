@@ -1,0 +1,31 @@
+D:\Kuliah\Semester 3\Pemrograman Lanjut\P\LaundryApps\LaundryApps\LaundryApps\obj\Debug\LaundryApps.csproj.AssemblyReference.cache
+D:\Kuliah\Semester 3\Pemrograman Lanjut\P\LaundryApps\LaundryApps\LaundryApps\obj\Debug\LaundryApps.Properties.Resources.resources
+D:\Kuliah\Semester 3\Pemrograman Lanjut\P\LaundryApps\LaundryApps\LaundryApps\obj\Debug\LaundryApps.View.Login.resources
+D:\Kuliah\Semester 3\Pemrograman Lanjut\P\LaundryApps\LaundryApps\LaundryApps\obj\Debug\LaundryApps.csproj.GenerateResource.cache
+D:\Kuliah\Semester 3\Pemrograman Lanjut\P\LaundryApps\LaundryApps\LaundryApps\obj\Debug\LaundryApps.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 3\Pemrograman Lanjut\P\LaundryApps\LaundryApps\LaundryApps\bin\Debug\LaundryApps.exe.config
+D:\Kuliah\Semester 3\Pemrograman Lanjut\P\LaundryApps\LaundryApps\LaundryApps\bin\Debug\LaundryApps.exe
+D:\Kuliah\Semester 3\Pemrograman Lanjut\P\LaundryApps\LaundryApps\LaundryApps\bin\Debug\LaundryApps.pdb
+D:\Kuliah\Semester 3\Pemrograman Lanjut\P\LaundryApps\LaundryApps\LaundryApps\bin\Debug\System.Data.SQLite.dll
+D:\Kuliah\Semester 3\Pemrograman Lanjut\P\LaundryApps\LaundryApps\LaundryApps\bin\Debug\System.Data.SQLite.xml
+D:\Kuliah\Semester 3\Pemrograman Lanjut\P\LaundryApps\LaundryApps\LaundryApps\obj\Debug\LaundryApps.View.Dashboard.resources
+D:\Kuliah\Semester 3\Pemrograman Lanjut\P\LaundryApps\LaundryApps\LaundryApps\obj\Debug\LaundryApps.csproj.CopyComplete
+D:\Kuliah\Semester 3\Pemrograman Lanjut\P\LaundryApps\LaundryApps\LaundryApps\obj\Debug\LaundryApps.exe
+D:\Kuliah\Semester 3\Pemrograman Lanjut\P\LaundryApps\LaundryApps\LaundryApps\obj\Debug\LaundryApps.pdb
+D:\#\Perkuliahan\pemograman\LaundryApps\LaundryApps\bin\Debug\LaundryApps.exe.config
+D:\#\Perkuliahan\pemograman\LaundryApps\LaundryApps\bin\Debug\LaundryApps.exe
+D:\#\Perkuliahan\pemograman\LaundryApps\LaundryApps\bin\Debug\LaundryApps.pdb
+D:\#\Perkuliahan\pemograman\LaundryApps\LaundryApps\bin\Debug\System.Data.SQLite.dll
+D:\#\Perkuliahan\pemograman\LaundryApps\LaundryApps\bin\Debug\System.Data.SQLite.xml
+D:\#\Perkuliahan\pemograman\LaundryApps\LaundryApps\obj\Debug\LaundryApps.csproj.AssemblyReference.cache
+D:\#\Perkuliahan\pemograman\LaundryApps\LaundryApps\obj\Debug\LaundryApps.csproj.SuggestedBindingRedirects.cache
+D:\#\Perkuliahan\pemograman\LaundryApps\LaundryApps\obj\Debug\LaundryApps.Properties.Resources.resources
+D:\#\Perkuliahan\pemograman\LaundryApps\LaundryApps\obj\Debug\LaundryApps.View.Check_Out.resources
+D:\#\Perkuliahan\pemograman\LaundryApps\LaundryApps\obj\Debug\LaundryApps.View.Dashboard.resources
+D:\#\Perkuliahan\pemograman\LaundryApps\LaundryApps\obj\Debug\LaundryApps.View.Login.resources
+D:\#\Perkuliahan\pemograman\LaundryApps\LaundryApps\obj\Debug\LaundryApps.View.Pembayaran.resources
+D:\#\Perkuliahan\pemograman\LaundryApps\LaundryApps\obj\Debug\LaundryApps.csproj.GenerateResource.cache
+D:\#\Perkuliahan\pemograman\LaundryApps\LaundryApps\obj\Debug\LaundryApps.csproj.CoreCompileInputs.cache
+D:\#\Perkuliahan\pemograman\LaundryApps\LaundryApps\obj\Debug\LaundryApps.csproj.CopyComplete
+D:\#\Perkuliahan\pemograman\LaundryApps\LaundryApps\obj\Debug\LaundryApps.exe
+D:\#\Perkuliahan\pemograman\LaundryApps\LaundryApps\obj\Debug\LaundryApps.pdb
